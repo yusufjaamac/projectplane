@@ -1,0 +1,19 @@
+/* Yusuf J*/
+.Destlist{
+    gap: 10px;
+    width: 100%;
+    display: flex;
+   
+
+}
+
+.innerclass{
+    width: 100%;
+    
+    
+}
+
+.instructions{
+    display: flex;
+    float: left;
+}
